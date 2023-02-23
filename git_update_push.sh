@@ -4,10 +4,10 @@
 #Email: vanhuong.do@asicland.com
 #
 #git remote add origin https://github.com/dovanhuong/$1.git
-git init 
-git add .
-git commit -m "first release"
-git remote add origin https://github.com/dovanhuong/templateReference.git
+#git init 
+#git add .
+#git commit -m "first release"
+#git remote add origin https://github.com/dovanhuong/templateReference.git
 git branch -M main
 git pull
 git add .
